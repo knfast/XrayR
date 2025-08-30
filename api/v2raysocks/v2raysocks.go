@@ -1,5 +1,5 @@
 package v2raysocks
-// APIClient create an api client to the panel.
+
 import (
 	"bufio"
 	"encoding/json"
